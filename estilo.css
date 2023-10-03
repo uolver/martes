@@ -1,0 +1,23 @@
+img{
+    width: 300px;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+
+figure{
+    width: 900px;
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+h1{
+    background-color: chartreuse;
+}
+
+*{
+    margin:0;
+    padding: 0;;
+}
